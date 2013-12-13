@@ -1,0 +1,8 @@
+BAI - BigAssInt
+Author: Adam Gwilliam
+
+This defines a class (bai.cc) which allows for simple mathematical
+opeartions on integers larger than any C++ native data type. 
+Implimented using strings. Mostly for programming competitions (ACM, 
+etc)
+
