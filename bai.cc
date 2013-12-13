@@ -1,6 +1,7 @@
 // BigAssInt
 // For use in programming competitions.
 // unbounded integer
+// 12.12.13
 // Adam Gwilliam
 #include <iostream> 
 
